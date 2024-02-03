@@ -1,0 +1,12 @@
+.conatiner{
+    color: gray !important;
+}
+.description{
+    width: 300px;
+}
+img{
+    width: 100px;
+}
+.bg-gray{
+    background-color: rgb(228, 219, 219);
+}
